@@ -1,5 +1,0 @@
-film = input()
-acter_1 = input()
-acter_2 = input()
-acter_3 = input()
-print(f"В фильме {film} главные роли исполнили {acter_1}, {acter_2}, {acter_3}.")
