@@ -34,7 +34,10 @@ python.exe -m pip install --upgrade pip
 
 5.1 Скопировать gitignor с другого проекта
 5.2 Скопировать setting.json и launch.json из другого проекта в vs code и вставить в свой в папку .vscode
-6. установка requirements.txt> pip install -r requirements.txt 
+6. установка requirements.txt из жугого проекта> pip install -r requirements.txt 
+
+установка своего файла requirements со всеми модулями:
+pip freeze > requirements.txt
 
 В терминале: pip install pytest 
 В requirements  отобразиться : 
