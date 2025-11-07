@@ -1,0 +1,8 @@
+почитать NumPy библиотека
+https://habr.com/ru/articles/768188/
+Для начала необходимо импортировать библиотеку в программу. В модуле NumPy имеется функция array, которая создает массив.
+https://pythonist.ru/python-numpy-tutorial/
+
+
+Как вывести множество без скобок в Python
+https://python-teach.ru/python-dlya-nachinayushhih/set/kak-vyvesti-mnozhestvo-bez-skobok-v-python/
